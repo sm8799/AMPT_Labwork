@@ -31,3 +31,12 @@ This repository contains all the assignments related to Advanced microprocessors
     > nasm -fbin transpose_of_matrix.asm -o transpose.bin  
     > cat bootloader.bin transpose.bin > result.bin  
     > qemu-system-i386 result.bin  
+
+## Helping Hands
+
+1.  Sawant Sir, Khatavkar Sir - COEP, Pune
+2.  Utkarsh Andurkar
+3.  Leeky 0x00sec vip - Realmode Assembly -Writing bootable stuff part 1 and part 2
+4.  devdungeon
+5.  Alex Parker website 3 zanders co uk
+
